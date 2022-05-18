@@ -1,0 +1,14 @@
+{
+  "Images": 
+  [
+  {"URL":"img/cover.jpg", "Caption": "Cover art"},
+  {"URL":"img/stars.jpg", "Caption": "Glow effect"}, 
+  {"URL":"img/style.jpg", "Caption": "Stylish cover"},
+  {"URL":"img/batman.jpg", "Caption": "Batman"}, 
+  {"URL":"img/poster0.jpg", "Caption": "Poster-design"},
+  {"URL":"img/poster2.jpg", "Caption": "Poster-design"},
+  {"URL":"img/poster3.jpg", "Caption": "Poster-design"},
+  {"URL":"img/poster4.jpg", "Caption": "Poster-design"},
+  {"URL":"img/poster5.jpg", "Caption": "Poster-design"}
+  ]
+}
